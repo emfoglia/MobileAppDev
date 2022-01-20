@@ -1,1 +1,0 @@
-This folder contains the Inheritance package, which contains 3 Java classes, from the Module 1 assignment.
